@@ -20,7 +20,7 @@ This Streamlit app allows you to upload an image and automatically detect and se
 
 ## Notes
 
-*   **Color Range Adjustment:** The default color ranges (lower\_red, upper\_red, etc.) may need to be adjusted depending on the specific colors you want to detect in your images.
+*   **Color Range Adjustment:** The default color ranges (lower\_red, upper\_red, etc.) can be adjusted depending on the specific colors you want to detect in your images.
 *   **HSV Color Space:**  The app uses the HSV color space because it's often more robust for color-based segmentation than RGB.
 
 ## Requirements
