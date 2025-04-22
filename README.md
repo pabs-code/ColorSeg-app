@@ -1,4 +1,4 @@
-# Color Detection & Segmentation App
+# Image Color Detection & Segmentation App
 
 ## Overview
 
