@@ -167,12 +167,12 @@ You can add screenshots of the app in action to help users understand what they'
 ## 🎬 Watch the Video
 
 <video controls>
-  <source src="assets/video-demo.mp4" type="video/mp4">
+  <source src="https://github.com/pabs-code/Color-segmentation-app/blob/main/assets/video-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
 https://github.com/pabs-code/Color-segmentation-app/blob/main/assets/video-demo.mp4
+
 
 
 ---
