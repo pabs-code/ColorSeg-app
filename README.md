@@ -160,18 +160,10 @@ color-segmentation-app/
 
 ---
 
-## 📌 Screenshots
+## 📌 Video Screenshot Demo
 
-You can add screenshots of the app in action to help users understand what they'll see.
 
-## 🎬 Watch the Video
-
-<video controls>
-  <source src="https://github.com/pabs-code/Color-segmentation-app/blob/main/assets/video-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-https://github.com/pabs-code/Color-segmentation-app/blob/main/assets/video-demo.mp4
+https://github.com/user-attachments/assets/657113d9-62fb-46af-82e3-ab3f595e0268
 
 
 
