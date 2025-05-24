@@ -1,4 +1,4 @@
-# **ColorSegmentation Streamlit App**
+# **HSV ColorSegmentation**
 
 > A Streamlit-based application for detecting and segmenting specific colors in images using HSV color space.
 
