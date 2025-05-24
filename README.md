@@ -56,13 +56,13 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/color-segmentation-app.git
+   git clone https://github.com/your-username/hsv-colorseg.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd color-segmentation-app
+   cd hsv-colorseg
    ```
 
 3. **Install the required dependencies:**
