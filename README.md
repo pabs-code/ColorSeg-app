@@ -14,8 +14,9 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
   - [Running Script](#running-script)
-  - [What to Expect When Running This App](#what-to-expect-when-running-this-app)
-  - [Screenshots](#screenshots)
+  - [Expectations When Running This App](#expectations-when-running-this-app)
+  - [Demo](#demo)
+  - [Acknowledgments](#acknowledgments)
   - [License](#license)
 
 ---
@@ -91,7 +92,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## What to Expect When Running This App
+## Expectations When Running This App
 
 | Feature                     | Description                                                                 |
 | --------------------------- | --------------------------------------------------------------------------- |
@@ -102,7 +103,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 📌 Video Screenshot Demo
+## Demo
 
 
 https://github.com/user-attachments/assets/657113d9-62fb-46af-82e3-ab3f595e0268
@@ -117,7 +118,7 @@ https://github.com/user-attachments/assets/657113d9-62fb-46af-82e3-ab3f595e0268
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
