@@ -1,33 +1,26 @@
-# 🎨 **ColorSegmentater App**
+# **ColorSegmentation Streamlit App**
 
 > A Streamlit-based application for detecting and segmenting specific colors in images using HSV color space.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-- [🎨 **Color Segmentation App**](#-color-segmentation-app)
-  - [📚 Table of Contents](#-table-of-contents)
-  - [📌 About the Project](#-about-the-project)
-  - [✅ Features](#-features)
-  - [🚀 Getting Started](#-getting-started)
+- [**Color Segmentation App**](#color-segmentation-app)
+  - [Table of Contents](#table-of-contents)
+  - [About the Project](#about-the-project)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-  - [📋 Usage](#-usage)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
-  - [📌 What to Expect When Running This App](#-what-to-expect-when-running-this-app)
-  - [📌 Notes](#-notes)
-  - [📌 Acknowledgments](#-acknowledgments)
-  - [📌 Contact](#-contact)
-  - [📌 Folder Structure](#-folder-structure)
-  - [📌 Screenshots](#-screenshots)
-  - [📌 Future Enhancements](#-future-enhancements)
-  - [📌 Thank You](#-thank-you)
+  - [Running Script](#running-script)
+  - [What to Expect When Running This App](#what-to-expect-when-running-this-app)
+  - [Screenshots](#screenshots)
+  - [License](#license)
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 **Color Segmentation App** is a simple yet powerful Streamlit application that allows users to upload an image and detect segments of specific colors (Red, Green, Blue) using the **HSV color space**. The app is ideal for learning about image processing and OpenCV.
 
@@ -35,7 +28,7 @@ This project is designed to be **easy to use**, **educational**, and **extendabl
 
 ---
 
-## ✅ Features
+## Features
 
 - Upload images in JPG, JPEG, or PNG format.
 - Detect and display segments of Red, Green, and Blue colors in the image.
@@ -44,7 +37,7 @@ This project is designed to be **easy to use**, **educational**, and **extendabl
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -80,7 +73,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 📋 Usage
+## Running Script
 
 1. Run the Streamlit app:
 
@@ -98,25 +91,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to help improve this project, please:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and test them.
-4. Push your changes to your branch.
-5. Open a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📌 What to Expect When Running This App
+## What to Expect When Running This App
 
 | Feature                     | Description                                                                 |
 | --------------------------- | --------------------------------------------------------------------------- |
@@ -127,15 +102,14 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 📌 Notes
+## 📌 Video Screenshot Demo
 
-- The app uses **OpenCV** for image processing and color detection.
-- It is designed to be used in a development or educational environment.
-- For production use, additional features like color calibration, performance optimization, and error handling can be added.
+
+https://github.com/user-attachments/assets/657113d9-62fb-46af-82e3-ab3f595e0268
 
 ---
 
-## 📌 Acknowledgments
+## Acknowledgments
 
 - [Streamlit](https://streamlit.io/) – for the web interface.
 - [OpenCV (cv2)](https://pypi.org/project/opencv-python/) – for image processing.
@@ -143,44 +117,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 📌 Contact
+## 📄 License
 
-If you have any questions or need help, feel free to open an issue on the GitHub repository.
-
----
-
-## 📌 Folder Structure
-
-```
-color-segmentation-app/
-├── app.py
-├── README.md
-└── LICENSE
-```
-
----
-
-## 📌 Video Screenshot Demo
-
-
-https://github.com/user-attachments/assets/657113d9-62fb-46af-82e3-ab3f595e0268
-
-
-
----
-
-## 📌 Future Enhancements
-
-- Add support for more colors.
-- Implement color calibration tools.
-- Export segmented images as files.
-- Integrate with a web backend for more advanced use cases.
-
----
-
-## 📌 Thank You
-
-Thank you for using the **Color Segmentation App**! We hope this project helps you learn more about image processing and color detection.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
