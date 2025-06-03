@@ -56,13 +56,13 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/img-hsv-colorseg.git
+   git clone https://github.com/your-username/img-hsv-color-segmentation.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd img-hsv-colorseg
+   cd img-hsv-color-segmentation
    ```
 
 3. **Install the required dependencies:**
